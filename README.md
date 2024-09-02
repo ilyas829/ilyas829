@@ -3,7 +3,7 @@
 - 🌱 I’m currently persuing post-graduation in Computer Application.
 -     I am a Bachelor in Computer Science ..  :)
 - 💞️ I’m looking to collaborate on projects related to python or Data science
-- 📫 How to reach me ... ilyasgshaikh786@gmail.com
+- 📫 How to reach me ... shaikhilyas8290@gmail.com / ilyasgshaikh786@gmail.com 
 
 <!---
 ilyas829/ilyas829 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
