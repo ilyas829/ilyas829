@@ -33,7 +33,7 @@ immediately reinvested into writing more automation.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas829&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ilyas829&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ilyas829&theme=darkhub&no-frame=true&margin-w=4&v=1)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -47,13 +47,13 @@ immediately reinvested into writing more automation.
 ## 🏅 Certifications & Badges
 
 <a href="https://www.credly.com/badges/5e2008a5-b8b7-4209-8549-fe924c48ee72/public_url" target="_blank">
-  <img src="https://images.credly.com/size/150x150/badges/5e2008a5-b8b7-4209-8549-fe924c48ee72/image.png" alt="Badge 1" width="120"/>
+  <img src="[https://images.credly.com/size/150x150/badges/5e2008a5-b8b7-4209-8549-fe924c48ee72/image.png](https://images.credly.com/size/220x220/images/b4ba52cd-6e75-4362-89f0-5c3fb5eb6821/image.png)" alt="Badge 1" width="120"/>
 </a>
 <a href="https://www.credly.com/badges/0f1dd226-816e-4593-a617-195ea8bbfc6e/public_url" target="_blank">
-  <img src="https://images.credly.com/size/150x150/badges/0f1dd226-816e-4593-a617-195ea8bbfc6e/image.png" alt="Badge 2" width="120"/>
+  <img src="[https://images.credly.com/size/150x150/badges/0f1dd226-816e-4593-a617-195ea8bbfc6e/image.png](https://images.credly.com/size/220x220/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob)" alt="Badge 2" width="120"/>
 </a>
 <a href="https://www.credly.com/badges/f3608231-fed6-4630-8ccc-dd9285d76a3b/public_url" target="_blank">
-  <img src="https://images.credly.com/size/150x150/badges/f3608231-fed6-4630-8ccc-dd9285d76a3b/image.png" alt="Badge 3" width="120"/>
+  <img src="[https://images.credly.com/size/150x150/badges/f3608231-fed6-4630-8ccc-dd9285d76a3b/image.png](https://images.credly.com/size/220x220/images/7416ef81-78db-4222-b378-43d9f41c36e1/image.png)" alt="Badge 3" width="120"/>
 </a>
 
 ## 🎖️ Holopin Badges
