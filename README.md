@@ -32,29 +32,36 @@ immediately reinvested into writing more automation.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilyas829&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas829&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://gh-trophy.egoist.dev/?username=ilyas829)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ilyas829&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ilyas829&icon=9&color=2)](https://visitcount.itsvg.in)
 
 ## 🏅 Certifications & Badges
 
-<a href="https://www.credly.com/badges/5e2008a5-b8b7-4209-8549-fe924c48ee72/public_url" target="_blank">
-  <img src="[https://images.credly.com/size/150x150/badges/5e2008a5-b8b7-4209-8549-fe924c48ee72/image.png](https://images.credly.com/size/220x220/images/b4ba52cd-6e75-4362-89f0-5c3fb5eb6821/image.png)" alt="Badge 1" width="120"/>
-</a>
 <a href="https://www.credly.com/badges/0f1dd226-816e-4593-a617-195ea8bbfc6e/public_url" target="_blank">
-  <img src="[https://images.credly.com/size/150x150/badges/0f1dd226-816e-4593-a617-195ea8bbfc6e/image.png](https://images.credly.com/size/220x220/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob)" alt="Badge 2" width="120"/>
+  <img src="https://images.credly.com/size/680x680/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Badge 2" width="120"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/5e2008a5-b8b7-4209-8549-fe924c48ee72/public_url" target="_blank">
+  <img src="https://images.credly.com/images/7416ef81-78db-4222-b378-43d9f41c36e1/image.png" alt="Badge 1" width="120"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/f3608231-fed6-4630-8ccc-dd9285d76a3b/public_url" target="_blank">
-  <img src="[https://images.credly.com/size/150x150/badges/f3608231-fed6-4630-8ccc-dd9285d76a3b/image.png](https://images.credly.com/size/220x220/images/7416ef81-78db-4222-b378-43d9f41c36e1/image.png)" alt="Badge 3" width="120"/>
+  <img src="https://images.credly.com/size/220x220/images/b4ba52cd-6e75-4362-89f0-5c3fb5eb6821/image.png" alt="Badge 3" width="120"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.coursera.org/account/accomplishments/verify/JVKVIDXBY9GE?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JVKVIDXBY9GE/CERTIFICATE_LANDING_PAGE~JVKVIDXBY9GE.jpeg" 
+       alt="Badge 4" 
+       style="width: 190px; height: 120px !important; object-fit: fill;"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
 
 ## 🎖️ Holopin Badges
 
