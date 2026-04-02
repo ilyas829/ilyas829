@@ -32,6 +32,9 @@ immediately reinvested into writing more automation.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilyas829&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas829&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🐍 My Contributions
+![snake gif](https://github.com/ilyas829/ilyas829/blob/output/github-snake-dark.svg)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
